@@ -24,3 +24,6 @@ Extra points:
 
 debugger.h (getdata and putdata functions) was based on the code found here:
 https://theantway.com/2013/01/notes-for-playing-with-ptrace-on-64-bits-ubuntu-12-10/
+
+
+~~Also, forgive me for the intensive output, it was a nightmare to debug~~
