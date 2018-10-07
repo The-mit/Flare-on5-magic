@@ -14,7 +14,7 @@ NOTE: if 2 substring will get the same "hash" (result from a function), this sol
 Make sure that `./magic` is executable.
 
 After the run ends, you should filter the output and supply it to the ORIGINAL file
-It is automated using the `finish.sh`.
+It is automated using the `run.sh`.
 
 Extra points:
 - The code has no classes and the only reason I used C++ over C was std::map.
