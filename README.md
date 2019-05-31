@@ -1,4 +1,4 @@
-# Flare-on5-magic
+# Flareon 5 magic
 This solution uses the linux ptrace.
 It bruteforces the answers for the first permutation (which is up to 3 consecutive characters, 95 ^ 3 for each substring)
 The next flags are calculated using the hashes that were calculated at the first permutation
